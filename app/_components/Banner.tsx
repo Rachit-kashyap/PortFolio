@@ -48,7 +48,7 @@ const Banner = () => {
                     <p className="banner-description slide-up-and-fade mt-6 text-lg text-muted-foreground">
                         Hi! I&apos;m{' '}
                         <span className="font-medium text-foreground">
-                           Deepak Pandey
+                           Rachit Kumar
                         </span>
                         .A creative Frontend / MERN Stack Developer with 6+ Month experience in building high-performance, scalable, and responsive web solutions.
 
@@ -73,10 +73,10 @@ const Banner = () => {
                 <div className="md:absolute bottom-[10%] right-[4%] flex md:flex-col gap-4 md:gap-8 text-center md:text-right">
                     <div className="slide-up-and-fade">
                         <h5 className="text-3xl sm:text-4xl font-anton text-primary mb-1.5">
-                            6+
+                            1.5+
                         </h5>
                         <p className="text-muted-foreground">
-                            Month of Experience
+                            Years of Experience
                         </p>
                     </div>
                     <div className="slide-up-and-fade">
@@ -89,7 +89,7 @@ const Banner = () => {
                     </div>
                     <div className="slide-up-and-fade">
                         <h5 className="text-3xl sm:text-4xl font-anton text-primary mb-1.5">
-                            10+
+                            2+
                         </h5>
                         <p className="text-muted-foreground">Freelancing Work Done</p>
                     </div>
