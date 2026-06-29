@@ -29,8 +29,8 @@ const robotoFlex = Roboto_Flex({
 });
 
 export const metadata: Metadata = {
-    title: 'Portfolio - DeepakPandey',
-    description: 'Personal portfolio of Deepak Pandey',
+    title: 'Portfolio - RachitKumar',
+    description: 'Personal portfolio of Rachit Kumar',
 };
 
 export default function RootLayout({
