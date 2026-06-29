@@ -29,7 +29,7 @@ const robotoFlex = Roboto_Flex({
 });
 
 export const metadata: Metadata = {
-    title: 'Portfolio - RachitKumar',
+    title: 'Portfolio - Rachit Kumar',
     description: 'Personal portfolio of Rachit Kumar',
 };
 

@@ -54,4 +54,13 @@
     .markdown-text ul {
         @apply pl-5 mt-2 list-disc;
     }
+
+    .banner-title {
+        letter-spacing: -0.03em;
+        text-shadow: 0 20px 60px rgba(0, 0, 0, 0.22);
+    }
+
+    .banner-description {
+        line-height: 1.85;
+    }
 }
