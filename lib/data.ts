@@ -125,7 +125,59 @@ Full-Stack Developer:
             "/projects/images/image2.png",
         ],
     },
+{
+    title: "Spoke - Bicycle Repair Shop Management System",
+    slug: "spoke-bicycle-repair-shop",
+    liveUrl: "https://spokeshop.netlify.app/board",
+    year: 2026,
+    description: `
+A production-ready full-stack bicycle repair shop management system built for the Spoke Full-Stack Internship Assignment.
 
+Key Features:
+<ul>
+  <li>🚲 Customer, Bike, and Repair Job Management</li>
+  <li>📋 Kanban-style repair workflow dashboard</li>
+  <li>🔐 JWT Authentication with HTTP Only Cookies</li>
+  <li>📸 Damage & Repair Photo Uploads using Cloudinary</li>
+  <li>💰 Estimates, Labour, Parts & Automatic Bill Calculation</li>
+  <li>⏰ Late job detection with repair timeline tracking</li>
+  <li>✅ Server-side business rule validation and stage transitions</li>
+  <li>📱 Fully responsive modern UI built with Next.js & Tailwind CSS</li>
+</ul>
+    `,
+    role: `
+Full-Stack Developer:
+<ul>
+  <li>Built the complete application using Next.js App Router and TypeScript</li>
+  <li>Designed scalable MongoDB schemas using Mongoose</li>
+  <li>Implemented secure JWT authentication with HTTP Only Cookies</li>
+  <li>Developed REST APIs for customers, bikes, repair jobs, and dashboard</li>
+  <li>Integrated Cloudinary for image uploads and automatic media management</li>
+  <li>Implemented repair workflow validation and business rules on the server</li>
+  <li>Created responsive dashboard with Kanban repair board and analytics</li>
+  <li>Handled data validation using Zod and centralized error handling</li>
+</ul>
+    `,
+    techStack: [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Node.js",
+        "MongoDB",
+        "Mongoose",
+        "JWT",
+        "Cloudinary",
+        "Tailwind CSS",
+        "Zod",
+    ],
+    thumbnail: "/projects/images/spoke.png",
+    longThumbnail: "/projects/thumbnail/spoke-thumb.png",
+    images: [
+        "/projects/images/spoke-dashboard.png",
+        "/projects/images/spoke-job.png",
+        "/projects/images/spoke-customer.png",
+    ],
+},
  
 
 
